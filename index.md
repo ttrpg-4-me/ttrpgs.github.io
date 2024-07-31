@@ -1,4 +1,4 @@
-## Welcome to my really awesome website
+## Welcome to my really awesome website!
 
 This is a website for people in my home to browse the games on my shelves so that they can pick out what they want to play. If you're not in my home then **Hey! What Gives?**
 
