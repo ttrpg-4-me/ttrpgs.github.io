@@ -1,6 +1,6 @@
-## Welcome to my really awesome website!
+## See You Later
 
-Come play games with me!!!
+A simple blog by latest_gator
 
 <ul>
   {% for post in site.posts %}
