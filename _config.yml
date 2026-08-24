@@ -1,4 +1,5 @@
-title: www.ttrpgs.net
+title: See You Later
+url: https://www.ttrpgs.net
 remote_theme: abhinavs/moonwalk
 plugins:
   - jekyll-remote-theme
