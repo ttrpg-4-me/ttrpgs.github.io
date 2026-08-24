@@ -1,2 +1,4 @@
 title: www.ttrpgs.net
 remote_theme: abhinavs/moonwalk
+plugins:
+  - jekyll-remote-theme
