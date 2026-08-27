@@ -1,6 +1,6 @@
 ---
 layout: default
-title: The_Burning Wheel
+title: The Burning Wheel
 experience: None
 desire_to_play: 3
 gm_prep: Weeks
