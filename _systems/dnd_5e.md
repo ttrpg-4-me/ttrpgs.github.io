@@ -2,7 +2,7 @@
 layout: default
 title: Dungeons And Dragons 5th Edition
 experience: Ran it
-desire_to_play: 0
+desire_to_play: 1
 gm_prep: Days
 ---
 
@@ -13,6 +13,6 @@ gm_prep: Days
 
 Ran it for years, it's not for me. I don't love the setting, the system, or the company behind it.
 
-More generally I think the games that hand players world changing epic powers generally get boring quickly.
+I'd still have fun playing it (in many cases), but I like to try new things at my table and I've explored the space so thoroughly that I'd rather play basically any other game.
 
-I also can't stand extended turn based combat. A battle ceases to be a tense, climactic moment after 15 minutes and just becomes a distracting board game.
+My least favorite part about it is the wargame. For me a battle ceases to be a tense, climactic moment after 15 minutes and just becomes a distracting board game. For the same reason I'm not a big fan of games like Pathfinder, Lancer, and Warhammer.

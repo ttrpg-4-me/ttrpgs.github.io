@@ -11,7 +11,7 @@ gm_prep: Days
 | How much GM prep is needed? | {{page.gm_prep}} |
 | Where do I find it? | [Here](https://www.melsonia.com/products/swyvers) |
 
-Your favorite grotty british heist game!
+Your favorite grotty British heist game!
 
 I love this game. There's something really freeing about telling your players that all they own is a shiv and rotting clothes. It really sets a "I have nothing to lose" tone that leads to some wild gameplay.
 

@@ -11,6 +11,8 @@ gm_prep: Days
 | How much GM prep is needed? | {{page.gm_prep}} |
 | Where do I find it? | [Here](https://www.chaosium.com/call-of-cthulhu-rpg/) |
 
+The #1 RPG for having your mind devoured by an eldritch abomination in the 1920s.
+
 A classic. I've enjoyed running CoC games in the past. These days I feel like Delta Green is strictly better, so I reach for that instead.
 
 I'd love to run [Deadfellas](https://www.drivethrurpg.com/en/product/512356/deadfellas), I'm a big fan of modules that are basically hidden role games / chamber larps.

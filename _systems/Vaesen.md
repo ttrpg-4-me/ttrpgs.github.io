@@ -11,4 +11,4 @@ gm_prep: Days
 | How much GM prep is needed? | {{page.gm_prep}} |
 | Where do I find it? | [Here](https://freeleaguepublishing.com/games/vaesen/) |
 
-This is a nordic horror game that I want to play very badly. It's got the dice pool system from Free League Press that I love so very much, and I think it's really interesting how players are given partial information on folklore monsters as well as secrets to discover in play.
+This is a Nordic horror game that I want to play very badly. It's got the dice pool system from Free League Press that I love so very much, and I think it's really interesting how players are given partial information on folklore monsters as well as secrets to discover in play.
