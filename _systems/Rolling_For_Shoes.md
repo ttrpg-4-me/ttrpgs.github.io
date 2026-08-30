@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Rolling For Shoes
+title: Roll For Shoes
 experience: Ran it
 desire_to_play: 6
 gm_prep: None
