@@ -10,3 +10,5 @@ gm_prep: Weeks
 | How great is my desire to play it (0-10)? | {{page.desire_to_play}} |
 | How much GM prep is needed? | {{page.gm_prep}} |
 | Where do I find it? | [Here](https://lukegearing.itch.io/wolves-upon-the-coast-grand-campaign) |
+
+A viking OSR with cool magic.

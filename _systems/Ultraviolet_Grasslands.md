@@ -16,12 +16,12 @@ This is an amazingly creative setting book with really neat procedures for trave
 
 There's a couple reasons why my "want to play" score is so low:
 
-1. I don't really like the underlying system
+## I don't really like the underlying system
 
 There's a small system in the book that's basically a slightly stripped down dnd 5e. 5e is maybe my least favorite system. There's a community made Cairn conversion guide online, but doing that conversion requires some work and the smell doesn't totally scrub off.
 I do still love the travel and camp procedures.
 
-2. I'm having trouble eating the book
+## I'm having trouble eating the book
 
 There's a ton of creative ideas here, but every time I sit down to read it I only make it about 40 pages. Then I put it down for a few months and forget everything.
 
