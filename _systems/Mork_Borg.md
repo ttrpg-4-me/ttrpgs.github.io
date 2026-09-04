@@ -14,5 +14,3 @@ gm_prep: Days
 Fuck yeah blood drenched skeletons
 
 The book is equal parts gorgeous and edgy, it's a must read for anyone in the hobby!
-
-(I don't remember if I've actually played base Mork Borg, but I've done other Borgs)
