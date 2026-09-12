@@ -1,9 +1,11 @@
 title: See You Later
 description: latest_gator
-url: https://www.ttrpgs.net
+url: https://www.seeyoulater.dev
 remote_theme: pages-themes/midnight@v0.2.0
 plugins:
   - jekyll-remote-theme
 collections:
   systems:
+    output: true
+  modules:
     output: true
