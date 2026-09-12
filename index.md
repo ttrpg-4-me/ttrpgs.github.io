@@ -18,7 +18,7 @@
   {% endfor %}
 </ul>
 
-## Modules (Under Construction)
+## Modules
 
 <ul>
   {% for module in site.modules %}
