@@ -8,12 +8,22 @@
   {% endfor %}
 </ul>
 
-## Systems (Under construction)
+## Systems
 
 <ul>
   {% for game in site.systems %}
     <li>
       <a href="{{ game.url }}">{{ game.title }}</a>
+    </li>
+  {% endfor %}
+</ul>
+
+## Modules (Under Construction)
+
+<ul>
+  {% for module in site.modules %}
+    <li>
+      <a href="{{ module.url }}">{{ module.title }}</a>
     </li>
   {% endfor %}
 </ul>
