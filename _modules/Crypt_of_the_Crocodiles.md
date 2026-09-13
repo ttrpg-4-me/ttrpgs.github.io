@@ -77,11 +77,11 @@ The party explored the **Temple of the Crocodile**. One of them managed to steal
 
 One PC walked through the **Chamber of Heads** door while holding their best friend, a skull. The trap did not fire. The PC then proceeded to speak with the gibbering heads, collecting a couple spell scrolls while miraculously never failing their saves against getting cursed. Another member of the party tried to enter the **Chamber of Heads**. First they tested the magic doorway with their hand, and their hand was immediately burned off.
 
-The party flipped a couple coffins and manages to collect a huge bounty of jewels without triggering any traps or wraiths.
+The party flipped a couple coffins and managed to collect a huge bounty of jewels without triggering any traps or wraiths.
 
 They found **The Warning** and managed to fish the corpse's backpack out of the room with a makeshift grappling hook.
 
-Then they found the **Crocodile Lair** and spent some time discussing their options for distracting the crocodiles. Eventually they landed on a plan of removing a piece of the barricade and lobbing cursed urns into the room. On their test run they tossed in ten urns and watched in horror as skeletons and crocodiles gnawed at each other. When the dust settled they tossed in 20 more urns, finishing off the remaining crocodiles.
+Then they found the **Crocodile Lair** and spent some time discussing their options for distracting the crocodiles. Eventually they landed on a plan of removing a piece of the barricade and lobbing cursed urns into the room. On their test run they tossed in 10 urns and watched in horror as skeletons and crocodiles gnawed at each other. When the dust settled they tossed in 20 more urns, finishing off the remaining crocodiles.
 
 At that point the party really felt like they had done the dungeon to the best of their ability, but they decided to open up the **Ceiling Sarcophagus** without any careful planning because this was just a one shot. The PC who opened the sarcophagus was crushed under falling gold and rushing water.
 
