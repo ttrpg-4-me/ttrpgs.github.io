@@ -1,9 +1,9 @@
 ---
 layout: default
 title: Orc Borg
-experience: Read it
+experience: Ran it
 desire_to_play: 5
-gm_prep: Days
+gm_prep: None
 ---
 
 | How much experience do I have? | {{page.experience}} |

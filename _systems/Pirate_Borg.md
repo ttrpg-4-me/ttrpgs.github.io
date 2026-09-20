@@ -3,7 +3,7 @@ layout: default
 title: Pirate Borg
 experience: Ran it
 desire_to_play: 6
-gm_prep: Days
+gm_prep: None
 ---
 
 | How much experience do I have? | {{page.experience}} |
